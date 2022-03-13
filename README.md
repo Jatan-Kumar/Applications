@@ -1,6 +1,6 @@
 # Applications
 This repository, entails the applications i have built while working in the Software Development Industry.
-Mosst web apps were built with React.js, HTML5, CSS3, Material UI, Styled Components.
+Most web apps were built with React.js, HTML5, CSS3, Material UI and Styled Components.
 
 ## Deployed Applications That i Have Built from Scratch.
 

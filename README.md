@@ -27,3 +27,5 @@ i built the Fabric Toolbar for this web app.
 [Design Central] (https://designcentral.co.za/moodboard/play)
 
 # I cannot share the source code for these applications as they're confidential and its the intellectual property of customers of the company (Infinite Reality) i work for.
+
+ The Company i work for: [InFinite Reality] (https://www.infinitereality.co.za/)

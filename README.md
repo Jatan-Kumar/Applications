@@ -27,7 +27,7 @@ i built the Fabric Toolbar for this web app.
 [Design Central] (https://designcentral.co.za/moodboard/play)
 
 ### Javelin Sports Attorney
-i built the Fabric Toolbar for this web app.
+i built Static Website for a legal firm.
 [Javelin Sports Attorneys] (https://javelin-sports.co.za/)
 
 # I cannot share the source code for these applications as they're confidential and its the intellectual property of customers of the company (Infinite Reality) i work for.

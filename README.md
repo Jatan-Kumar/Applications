@@ -66,7 +66,7 @@ This is a static, responsive website for a company that sells spices as their ma
 #### Resolute Robotics
 
 I developed the landing page, contact us page, and components such as the navbar and footer, showcasing my expertise in building essential web application elements.
-[Visit Resolute Robotics](https://resoluteeducation.com/#banner)
+[Visit Resolute Robotics](https://resoluteeducation.com)
 
 #### Card Cahoots
 
@@ -76,7 +76,7 @@ I was responsible for the landing page, contact-us page, and all authentication 
 #### Design Central
 
 I developed the Fabric Toolbar for Design Central, emphasizing my skills in creating specialized web application tools and components.
-[Visit Design Central](https://designcentral.co.za/moodboard/play)
+[Visit Design Central](https://designcentral.co.za)
 
 #### Javelin Sports Attorney
 

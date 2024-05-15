@@ -66,7 +66,7 @@ This is a static, responsive website for a company that sells spices as their ma
 #### Resolute Robotics
 
 I developed the landing page, contact us page, and components such as the navbar and footer, showcasing my expertise in building essential web application elements.
-[Visit Resolute Robotics](https://resoluteeducation.com)
+[Visit Resolute Robotics](https://resolute.education/)
 
 #### Card Cahoots
 
